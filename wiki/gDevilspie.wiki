@@ -25,6 +25,6 @@ http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-gDevilspie.png
 
 http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-RuleEditor.png
 
-* Window Selector :
+* Window Selector ( with arabic window titles ):
 
 http://gdevilspie.googlecode.com/svn-history/r74/trunk/screenshots/Screenshot-WindowSelector.png
