@@ -1,0 +1,25 @@
+A user friendly interface to the devilspie window matching daemon, to create rules easily. 
+
+= Introduction =
+
+There is no need for a system wide installation for now. Just extract the tarball and run it.
+
+{{{
+tar xjvf gdevilspie-0.1.tar.bz2
+cd gdevilspie-0.1
+python gdevilspie.py
+}}}
+
+= Releases =
+
+* Initial release http://gdevilspie.googlecode.com/files/gdevilspie-0.1.tar.bz2
+
+= Screenshots =
+
+* Main Dialog :
+
+http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-gDevilspie.png
+
+* Rule Editor :
+
+http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-RuleEditor.png
