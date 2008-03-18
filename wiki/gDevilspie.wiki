@@ -24,3 +24,7 @@ http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-gDevilspie.png
 * Rule Editor :
 
 http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-RuleEditor.png
+
+* Window Selector :
+
+http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-WidowSelector.png
