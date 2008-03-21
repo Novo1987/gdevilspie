@@ -23,8 +23,7 @@ python gdevilspie.py
         * Correct parsing of actions that have arguments, specially geometry. 
         * Make the window list scrollable.
         * Prepare for handling manual changes in the raw tab.
-        * Use non-stock button for starting windowlist. Thanks to
-        nikolay.kovachev for reporting
+        * Use non-stock button for starting windowlist. Thanks to nikolay.kovachev for reporting
         * Run devilspie from anywhere in the path.
         * Make it clearer what to do when the user doesn't enter a rulename.
 
