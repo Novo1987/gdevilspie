@@ -13,6 +13,8 @@ python gdevilspie.py
 
 = Releases =
 
+* Second release http://gdevilspie.googlecode.com/files/gdevilspie-0.2.tar.bz2
+
 * Initial release http://gdevilspie.googlecode.com/files/gdevilspie-0.1.tar.bz2
 
 = Screenshots =
