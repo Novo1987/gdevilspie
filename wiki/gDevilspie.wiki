@@ -35,13 +35,12 @@ python gdevilspie.py
 = Screenshots =
 
 * Main Dialog :
-
-http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-gDevilspie.png
+http://gdevilspie.googlecode.com/svn/wiki/screenshots/Screenshot-RuleEditor.png
 
 * Rule Editor :
 
-http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-RuleEditor.png
+http://gdevilspie.googlecode.com/svn/wiki/screenshots/Screenshot-RuleEditor.png
 
 * Window Selector ( with arabic window titles ):
 
-http://gdevilspie.googlecode.com/svn/trunk/screenshots/Screenshot-WindowSelectorA.png
+http://gdevilspie.googlecode.com/svn/wiki/screenshots/Screenshot-WindowSelectorA.png
