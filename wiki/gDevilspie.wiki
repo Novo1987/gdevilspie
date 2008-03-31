@@ -3,21 +3,23 @@ A user friendly interface to the devilspie window matching daemon, to create rul
 
 = Introduction =
 
-There is no need for a system wide installation for now. Just extract the tarball and run it.
-
-{{{
-tar xjvf gdevilspie-0.1.tar.bz2
-cd gdevilspie-0.1
-python gdevilspie.py
-}}}
+System wide installation is handled now, but you it can also run uninstalled. Look it at the README for instructions.
 
 = Releases =
+* Third release http://gdevilspie.googlecode.com/files/gdevilspie-0.3.tar.bz2
 
 * Second release http://gdevilspie.googlecode.com/files/gdevilspie-0.2.tar.bz2
 
 * Initial release http://gdevilspie.googlecode.com/files/gdevilspie-0.1.tar.bz2
 
 = Changelog =
+
+* 1  April 2008 Release version 0.3
+	* Rewrote devilspie daemon handling. Should be more robust.
+	* Minor visual enhancements.
+	* Handle system wide install, done using setup.py
+	* Restructure modules.
+	* Added README, COPYING, and .desktop
 
 * 21 March 2008 Release version 0.2
         * Correct parsing of actions that have arguments, specially geometry. 
