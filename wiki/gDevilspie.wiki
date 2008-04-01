@@ -6,7 +6,7 @@ A user friendly interface to the devilspie window matching daemon, to create rul
 System wide installation is handled now, but you it can also run uninstalled. Look it at the README for instructions.
 
 = Releases =
-* Third release http://gdevilspie.googlecode.com/files/gdevilspie-0.3.tar.bz2
+* Third release http://gdevilspie.googlecode.com/files/gdevilspie-0.31.tar.bz2
 
 * Second release http://gdevilspie.googlecode.com/files/gdevilspie-0.2.tar.bz2
 
@@ -14,7 +14,7 @@ System wide installation is handled now, but you it can also run uninstalled. Lo
 
 = Changelog =
 
-* 1  April 2008 Release version 0.3
+* 1  April 2008 Release version 0.31
 	* Rewrote devilspie daemon handling. Should be more robust.
 	* Minor visual enhancements.
 	* Handle system wide install, done using setup.py
