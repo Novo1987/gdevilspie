@@ -1,4 +1,4 @@
-#labels Featured
+﻿#labels Featured
 A user friendly interface to the devilspie window matching daemon, to create rules easily. 
 
 = Introduction =
@@ -37,7 +37,8 @@ System wide installation is handled now, but you it can also run uninstalled. Lo
 = Screenshots =
 
 * Main Dialog :
-http://gdevilspie.googlecode.com/svn/wiki/screenshots/Screenshot-RuleEditor.png
+
+http://gdevilspie.googlecode.com/svn/wiki/screenshots/Screenshot-gDevilspie.png
 
 * Rule Editor :
 
