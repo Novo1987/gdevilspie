@@ -1,0 +1,19 @@
+* 1  April 2008 Release version 0.3
+	* Rewrote devilspie daemon handling. Should be more robust.
+	* Minor visual enhancements.
+	* Handle system wide install, done using setup.py
+	* Restructure modules.
+	* Added README, COPYING, and .desktop
+
+* 21 March 2008 Release version 0.2
+	* Correct parsing of actions that have arguments, specially geometry. 
+	* Make the window list scrollable.
+	* Prepare for handling manual changes in the raw tab.
+	* Use non-stock button for starting windowlist. Thanks to
+	nikolay.kovachev for reporting
+	* Run devilspie from anywhere in the path.
+	* Make it clearer what to do when the user doesn't enter a rulename.
+
+
+* 17 March 2008 Release version 0.1
+	* Initial release.

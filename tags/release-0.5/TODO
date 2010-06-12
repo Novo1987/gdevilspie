@@ -1,0 +1,31 @@
+Pending :
+* Code refactoring
+* Fill Dialog can hide behind rule editor.
+* Flash the tray icon when a rule is matched.
+* Add an optional alternate action notebook page, to allow for if -- then -- else rule creation.
+* Handle system wide rules, shown read only. Add unlock button for password entry to edit the system wide rules.
+* Help text all over the place.
+
+DONE :
+
+* Make main gdevilspie object that creates the main dialog, and create the rules editor dialog when needed only. DONE
+* Refresh on rule creation dialog exit. DONE
+* Confirmation dialog for rule deletion.  DONE
+* Fill the action and match selection trees. DONE
+* Change the properties notebook page on tree selection change in action and match trees. DONE
+* Add negation checkbox to match property notebook pages. DONE
+* Fill up relevant comboboxes with data from libwnck to allow for easy selection of properties of currently open windows. DONE
+* Show deamon status and ability to start / stop it. DONE
+* Text box at the top to name the rule / file. DONE
+* Tray icon to hide and show the gui. DONE
+* raw view of the to be generated rule. DONE
+* select first item in tree of rules list, matches and actions.
+* Skip Desktop window. Fixed bug instead
+* Double click in fill dialog.
+* notify user to enter a name.
+* Package 0.1 release.
+* Possibililty to edit already available rules files. ( parser )
+* Finish GUI of rules creation dialog.
+* handle system wide install.
+* Validate created rules correctness.
+
